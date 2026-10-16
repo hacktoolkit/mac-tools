@@ -1,0 +1,3 @@
+[submodule "voice-memo-transcriber"]
+	path = voice-memo-transcriber
+	url = https://github.com/hacktoolkit/voice-memo-transcriber.git
